@@ -23,6 +23,6 @@ A reproducible toolkit for studying representation geometry across transformer l
 - Backend and full-stack software engineering
 - Explainable, reproducible, and responsibly scoped technical work
 
-I'm preparing for 2027 full-time opportunities in the United States, Mainland China, and Hong Kong.
+I'm preparing for 2027 full-time opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/yila-cao-543865332/) · [Email](mailto:yc8155@nyu.edu)
