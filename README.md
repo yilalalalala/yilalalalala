@@ -4,9 +4,11 @@ I'm an M.S. Data Science candidate at New York University, graduating in May 202
 
 ## Featured work
 
-### [JewelRank — Explainable Recommendation Platform](https://github.com/yilalalalala/jewelry-recommendation-platform)
+### [Ensemble — Outfit-Aware Fashion Recommender](https://github.com/yilalalalala/ensemble-outfit-recommender)
 
-An end-to-end recommendation system with an explainable ranking pipeline, FastAPI, SQLAlchemy, React/TypeScript, deterministic synthetic data, automated tests, Docker, and CI.
+An end-to-end fashion recommendation system combining personalized retrieval and ranking, outfit
+completion, visual search, and a grounded shopping assistant. Built with LightGBM, PyTorch,
+FashionCLIP, FastAPI, temporal evaluation, and an [interactive public demo](https://yilalalalala.github.io/ensemble-outfit-recommender/).
 
 ### [Blood-Brain Barrier Permeability Prediction](https://github.com/yilalalalala/BBBP-ML-Project)
 
